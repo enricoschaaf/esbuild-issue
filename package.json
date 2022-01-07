@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "npx esbuild --bundle --platform=node --format=esm --outfile=index.mjs index.js"
+  }
+}
